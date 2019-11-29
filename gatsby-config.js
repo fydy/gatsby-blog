@@ -6,7 +6,7 @@ module.exports = {
             username: "fydy",
             
 			// github public repository name that you will use as a CMS - required
-            repositoryName: "issue-blog",
+            repositoryName: "elaw",
             
             metaData: {
                 // website name - required
